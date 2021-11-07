@@ -30,7 +30,7 @@
     props.delete('size') 
   : props.set('size', PLAYER_SIZE);
   // Integrate color props
-  props.set('bgcol', BACKGROUND_COLOR.replac('#', ''));
+  props.set('bgcol', BACKGROUND_COLOR.replace('#', ''));
   props.set('linkcol', LINK_COLOR.replace('#', ''));
 
   // Prep the new URL
