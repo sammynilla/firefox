@@ -1,35 +1,19 @@
 /* ==UserStyle==
 @name         Mobile Wikipedia
-@version      0.0.1
+@version      0.0.2
 @description  Cleans up the mobile version of Wikipedia
 @match        *://*.m.wikipedia.org/*
 @author       sammynilla
 ==/UserStyle== */
 
-#siteNotice {
-  display: none !important;
-}
-.page-actions-menu {
-  display: none !important;
-}
-.toclimit-3 {
-  display: none !important;
-}
-.skin-minerva-search-trigger.mw-ui-background-icon-search.search {
-  display: none !important;
-}
-.mw-ui-quiet.mw-ui-button.skin-minerva-search-trigger.mw-ui-icon-wikimedia-search-base20.mw-ui-icon-element.mw-ui-icon {
-  display: none !important;
-}
-.minerva-user-navigation {
-  display: none !important;
-}
-.toggle-list__toggle.mw-ui-icon-flush-left.mw-ui-icon-wikimedia-menu-base20.mw-ui-icon-element.mw-ui-icon.mw-ui-quiet.mw-ui-button {
-  display: none !important;
-}
-.last-modified-bar {
-  display: none !important;
-}
+#siteNotice,
+.page-actions-menu,
+.toclimit-3,
+.skin-minerva-search-trigger.mw-ui-background-icon-search.search,
+.mw-ui-quiet.mw-ui-button.skin-minerva-search-trigger.mw-ui-icon-wikimedia-search-base20.mw-ui-icon-element.mw-ui-icon,
+.minerva-user-navigation,
+.toggle-list__toggle.mw-ui-icon-flush-left.mw-ui-icon-wikimedia-menu-base20.mw-ui-icon-element.mw-ui-icon.mw-ui-quiet.mw-ui-button,
+.last-modified-bar,
 .toc {
   display: none !important;
 }
