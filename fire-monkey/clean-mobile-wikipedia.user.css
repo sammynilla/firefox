@@ -1,9 +1,9 @@
 /* ==UserStyle==
-@name         Mobile Wikipedia
+@name         Clean Mobile Wikipedia
 @version      0.0.2
 @description  Cleans up the mobile version of Wikipedia
-@match        *://*.m.wikipedia.org/*
 @author       sammynilla
+@match        *://*.m.wikipedia.org/*
 ==/UserStyle== */
 
 #siteNotice,

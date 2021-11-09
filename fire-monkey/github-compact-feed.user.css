@@ -1,13 +1,13 @@
 /* ==UserStyle==
 @name         GitHub Compact Feed
 @version      1.2.3
-@description  Compact and hide details in the news feed
-@match        *://*.github.com/
-@match        *://*.github.com/orgs/*/dashboard/
+@description  Compact and hide details in the news feed.
 @author       StylishThemes
 @homepage     https://github.com/StylishThemes/GitHub-Compact-Feed
 @support      https://github.com/StylishThemes/GitHub-Compact-Feed/issues
 @updateURL    https://raw.githubusercontent.com/StylishThemes/GitHub-Compact-Feed/master/github-compact-feed.user.css
+@match        *://*.github.com/
+@match        *://*.github.com/orgs/*/dashboard/
 ==/UserStyle== */
 
 /*
