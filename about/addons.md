@@ -33,5 +33,7 @@
   - [Github](https://github.com/ckeditor/github-writer)
 * [Lovely Forks](https://addons.mozilla.org/en-US/firefox/addon/lovely-forks/)
   - [Github](https://github.com/musically-ut/lovely-forks)
+* [Refined GitHub](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
+  - [Github](https://github.com/refined-github/refined-github)
 * [Render Whitespace on Github](https://addons.mozilla.org/en-US/firefox/addon/render-whitespace-on-github/)
   - [Github](https://github.com/glebm/render-whitespace-on-github)
