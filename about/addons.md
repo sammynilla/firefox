@@ -1,7 +1,6 @@
 ## Privacy
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
-| |`HTTPS Everywhere`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)|[github](https://github.com/EFForg/https-everywhere)|
 | |`uBlock Origin`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)|[github](https://github.com/gorhill/uBlock)|
 
 ## Academic
@@ -19,6 +18,7 @@
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
 | |`FireMonkey`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)|[github](https://github.com/erosman/support/tree/FireMonkey)|
+| |`Volume Control for Bandcamp`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/bandcamp-player-volume-control)|[github](https://github.com/butterknight/bandcamp-volume-control)|
 | |`Github Isometric Contributions`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-isometric-contributions/)|[github](https://github.com/jasonlong/isometric-contributions/)|
 | |`Github Latest Release`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-latest-release/)|[github](https://github.com/dword-design/github-latest-release)|
 | |`Github Repository Size`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-repo-size/)|[github](https://github.com/Shywim/github-repo-size)|
