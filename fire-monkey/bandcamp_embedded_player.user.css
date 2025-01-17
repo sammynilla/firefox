@@ -19,12 +19,15 @@
 #player > #nonartarea > #infolayer > .info > #linkarea.item {
   display: none !important;
 }
+#player > #nonartarea > #linkareaalt {
+  display: none !important;
+}
 #player > #nonartarea > #infolayer > .info > .logo {
   margin: unset !important;
 }
 #player > #nonartarea > #infolayer > .info > .logo > .icon {
-  right: 8px !important;
   top: 8px !important;
+  right: 8px !important;
 }
 
 /* play button */
@@ -64,8 +67,8 @@
 
 /* bandcamp volume slider adjustments */
 #bk_wrapper {
-  padding: 0 !important;
   bottom: 0 !important;
+  padding: 0 !important;
   width: 100% !important;
 }
 #bk_wrapper>.bk_progress_bar_wrapper>.bk_progress_bar {
