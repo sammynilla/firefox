@@ -10,9 +10,9 @@
   'use strict';
 
   // USER SETTINGS
-  const KEYCODE_PLAY_BUTTON = 'Space';
+  const KEYCODE_PLAY_BUTTON     = 'Space';
   const KEYCODE_PREVIOUS_BUTTON = "ArrowLeft";
-  const KEYCODE_NEXT_BUTTON = "ArrowRight";
+  const KEYCODE_NEXT_BUTTON     = "ArrowRight";
 
   const is_tiny_player =
         document.getElementById('tinyplayer').style.display !== "none";
@@ -32,7 +32,6 @@
   }
 
   window.addEventListener('keydown', (event) => {
-    //console.log(event.code);
     switch (event.code) {
       case KEYCODE_PREVIOUS_BUTTON:
         event.preventDefault();
