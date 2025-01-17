@@ -1,0 +1,76 @@
+/* ==UserStyle==
+@name         Bandcamp Embedded Player
+@version      0.0.1
+@description  UI tweaks for the embedded player
+@author       sammynilla
+@match         *://bandcamp.com/*
+==/UserStyle== */
+
+/* pull the player off the browser walls */
+#player {
+  top: 10px !important;
+  left: 10px !important;
+}
+#player.hastracklist {
+  height: 97% !important;
+}
+
+/* link area */
+#player > #nonartarea > #infolayer > .info > #linkarea.item {
+  display: none !important;
+}
+#player > #nonartarea > #infolayer > .info > .logo {
+  margin: unset !important;
+}
+#player > #nonartarea > #infolayer > .info > .logo > .icon {
+  right: 8px !important;
+  top: 8px !important;
+}
+
+/* play button */
+#player > #artarea > #big_play_button {
+  bottom: 16px !important;
+}
+#player.size_small > #artarea > #big_play_button {
+  bottom: 0 !important;
+}
+
+#player > #nonartarea > #infolayer > .info > #maintext {
+  margin-top: 0 !important;
+}
+#player.albumplayer.size_medium > #nonartarea > #infolayer > .info > #currenttitlerow {
+  margin-top: 9px !important;
+}
+#player.albumplayer.size_large > #nonartarea > #infolayer > .info > #currenttitlerow {
+  margin-top: 14px !important;
+}
+#player.standalonetrackplayer.size_medium > #nonartarea > #infolayer > .info > #currenttitlerow {
+  margin-top: 22px !important;
+}
+#player.standalonetrackplayer.size_large > #nonartarea > #infolayer > .info > #currenttitlerow {
+  margin-top: 39px !important;
+}
+
+#player.standalonetrackplayer > #nonartarea > #infolayer > .info > #timelinecontainer {
+  width: 80% !important;
+}
+
+#player > #nonartarea > #infolayer > .info > #prevnext > #prev {
+  padding-left: 12px !important;
+}
+#player > #nonartarea > #infolayer > .info > #prevnext > #next {
+  padding-left: 5% !important;
+}
+
+/* bandcamp volume slider adjustments */
+#bk_wrapper {
+  padding: 0 !important;
+  bottom: 0 !important;
+  width: 100% !important;
+}
+#bk_wrapper>.bk_progress_bar_wrapper>.bk_progress_bar {
+  width: 100% !important;
+}
+#bk_volume {
+  display: none !important;
+}
