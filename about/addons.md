@@ -7,21 +7,30 @@
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
 | |`arxiv-utils`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/arxiv-utils/)|[github](https://github.com/j3soon/arxiv-utils)|
+| |`DeepL Translate`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/deepl-translate/)||
+| |`Furiganaize`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/furiganaize/)|[github](https://github.com/kuanyui/Furiganaize)|
 | |`Wikimedia Redirect`||[mozilla](https://addons.mozilla.org/en-GB/firefox/addon/wikipedia-mobile-version/)|[github](https://github.com/beingmrkenny/WikimediaRedirect)|
 
 ## Social & News
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
-| |`Bypass Paywalls`|✓||[github](https://github.com/iamadamdev/bypass-paywalls-chrome)|
+| |`Bypass Paywalls`|✓|[gitflic.ru](https://gitflic.ru/project/magnolia1234/bpc_uploads)|[github](https://github.com/bpc-clone/bypass-paywalls-firefox-clean)|
+| |`SponsorBlock for YouTube`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|[github](https://github.com/ajayyy/SponsorBlock)|
+
+## Media
+| | Addon Name | Private | Download URL | Repository |
+|-| ---: | :---: | :---: | :---: |
+| |`BooruShinshi`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)|[github](https://github.com/kuanyui/BooruShinshi)|
+| |`Search By Image`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)|[github](https://github.com/dessant/search-by-image)|
+
 
 ## Personalization
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
 | |`FireMonkey`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)|[github](https://github.com/erosman/support/tree/FireMonkey)|
-| |`Volume Control for Bandcamp`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/bandcamp-player-volume-control)|[github](https://github.com/butterknight/bandcamp-volume-control)|
 | |`Github Isometric Contributions`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-isometric-contributions/)|[github](https://github.com/jasonlong/isometric-contributions/)|
 | |`Github Latest Release`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-latest-release/)|[github](https://github.com/dword-design/github-latest-release)|
-| |`Github Repository Size`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-repo-size/)|[github](https://github.com/Shywim/github-repo-size)|
-| |`Github Writer`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-writer/)|[github](https://github.com/ckeditor/github-writer)|
+| |`Github Repository Size`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/deetss-github-repo-size/)|[github](https://github.com/Deetss/github-repo-size)|
 | |`Refined GitHub`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)|[github](https://github.com/refined-github/refined-github)|
-| |`Render Whitespace on Github`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/render-whitespace-on-github/)|[github](https://github.com/glebm/render-whitespace-on-github)|
+| |`Reload in address bar`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/reload-in-address-bar/)|[github](https://github.com/trubens/reloadInAddressBarExtension)|
+| |`Volume Control for Bandcamp`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/bandcamp-player-volume-control)|[github](https://github.com/butterknight/bandcamp-volume-control)|
