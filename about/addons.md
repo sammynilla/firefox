@@ -15,13 +15,15 @@
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
 | |`Bypass Paywalls`|✓|[gitflic.ru](https://gitflic.ru/project/magnolia1234/bpc_uploads)|[github](https://github.com/bpc-clone/bypass-paywalls-firefox-clean)|
-| |`SponsorBlock for YouTube`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|[github](https://github.com/ajayyy/SponsorBlock)|
 
-## Media
+## Entertainment & Media
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
 | |`BooruShinshi`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/booru-shinshi/)|[github](https://github.com/kuanyui/BooruShinshi)|
+| |`enhanced-h264ify`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/enhanced-h264ify/)|[github](https://github.com/alextrv/enhanced-h264ify)|
 | |`Search By Image`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/search_by_image/)|[github](https://github.com/dessant/search-by-image)|
+| |`SponsorBlock for YouTube`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)|[github](https://github.com/ajayyy/SponsorBlock)|
+| |`Volume Control for Bandcamp`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/bandcamp-player-volume-control)|[github](https://github.com/butterknight/bandcamp-volume-control)|
 
 
 ## Personalization
@@ -33,4 +35,3 @@
 | |`Github Repository Size`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/deetss-github-repo-size/)|[github](https://github.com/Deetss/github-repo-size)|
 | |`Refined GitHub`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)|[github](https://github.com/refined-github/refined-github)|
 | |`Reload in address bar`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/reload-in-address-bar/)|[github](https://github.com/trubens/reloadInAddressBarExtension)|
-| |`Volume Control for Bandcamp`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/bandcamp-player-volume-control)|[github](https://github.com/butterknight/bandcamp-volume-control)|
