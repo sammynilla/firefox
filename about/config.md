@@ -1,3 +1,10 @@
+# General
+* browser.quitShorcut.disabled `true`
+
+# Hardware Acceleration
+* gfx.webrender.all `true`
+* media.ffmpeg.vaapi.enabled `true`
+
 # Translation
 * browser.translations.automaticallyPopup `false`
 * browser.translations.enable `false`
