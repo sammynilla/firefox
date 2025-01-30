@@ -19,14 +19,19 @@
 # Privacy
 
 ## Disable WebRTC
-* media.peerconnection.enabled `false`
-* media.navigator.enabled `false`
+> I occasionally use Discord via browser while on Linux, so WebRTC is required.
+* ~~media.peerconnection.enabled `false`~~
+* ~~media.navigator.enabled `false`~~
 
-> This disables the use of microphone/webcam across your entire browser
+> [!NOTE]
+> This will completely disable the use of microphones and webcams across your entire browser.
 
 ## Fingerprinting
 * privacy.resistFingerprinting `true`
-* ~~privacy.resistFingerprinting.exemptedDomains `*.discord.com`~~
+* privacy.resistFingerprinting.exemptedDomains `localhost,discord.com`
+
+> [!WARNING]
+> Setting privacy.resistFingerprinting can break some site functionality.
 
 # Development
 * devtools.chrome.enabled `true`
