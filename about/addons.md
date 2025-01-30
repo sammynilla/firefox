@@ -34,4 +34,3 @@
 | |`Github Latest Release`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-latest-release/)|[github](https://github.com/dword-design/github-latest-release)|
 | |`Github Repository Size`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/deetss-github-repo-size/)|[github](https://github.com/Deetss/github-repo-size)|
 | |`Refined GitHub`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)|[github](https://github.com/refined-github/refined-github)|
-| |`Reload in address bar`|✓|[mozilla](https://addons.mozilla.org/en-US/firefox/addon/reload-in-address-bar/)|[github](https://github.com/trubens/reloadInAddressBarExtension)|
