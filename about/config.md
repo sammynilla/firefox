@@ -10,6 +10,12 @@
 * browser.translations.enable `false`
 * browser.translations.panelShown `false`
 
+# Personalization
+* toolkit.legacyUserProfileCustomizations.stylesheets `true`
+* browser.compactmode.show `true`
+* browser.uidensity `1`
+* browser.toolbars.bookmarks.showOtherBookmarks `false`
+
 # Privacy
 
 ## Disable WebRTC
