@@ -1,5 +1,8 @@
 # General
 * browser.quitShorcut.disabled `true`
+* accessibility.typeaheadfind `false`
+* accessibility.typeaheadfind.autostart `false`
+* accessibility.typeaheadfind.manual `false`
 
 # Hardware Acceleration
 * gfx.webrender.all `true`
