@@ -30,7 +30,3 @@
 | | Addon Name | Private | Download URL | Repository |
 |-| ---: | :---: | :---: | :---: |
 | |`FireMonkey`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/firemonkey/)|[github](https://github.com/erosman/support/tree/FireMonkey)|
-| |`Github Isometric Contributions`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-isometric-contributions/)|[github](https://github.com/jasonlong/isometric-contributions/)|
-| |`Github Latest Release`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/github-latest-release/)|[github](https://github.com/dword-design/github-latest-release)|
-| |`Github Repository Size`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/deetss-github-repo-size/)|[github](https://github.com/Deetss/github-repo-size)|
-| |`Refined GitHub`||[mozilla](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)|[github](https://github.com/refined-github/refined-github)|
